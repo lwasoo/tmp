@@ -1,2 +1,2 @@
 # tmp
-For learning
+For learning Git cmd.
